@@ -57,16 +57,3 @@ Halaman informasi tentang aplikasi.
 - **Font & Theme**: Menggunakan font custom `PressStart2P` untuk memberikan kesan game retro. Tema aplikasi juga menggunakan warna gelap dengan gradien untuk latar belakang.
 - **Ikon & Desain**: Setiap fitur pada halaman `HomePage` ditampilkan dalam bentuk grid dengan ikon yang berbeda.
 
-## Instalasi
-1. Pastikan Flutter dan Dart sudah terinstal pada sistem.
-2. Clone repository ini.
-3. Jalankan perintah `flutter pub get` untuk mengunduh semua dependencies.
-4. Jalankan aplikasi dengan perintah `flutter run`.
-
-## Catatan Tambahan
-- Pastikan `SharedPreferences` sudah terinstall dengan menjalankan `flutter pub add shared_preferences`.
-- Gambar atau font custom harus ditambahkan ke dalam file `pubspec.yaml` agar dapat digunakan dalam aplikasi.
-
----
-
-README ini memberikan penjelasan yang cukup detail mengenai struktur dan fitur utama aplikasi, serta cara menjalankannya.
