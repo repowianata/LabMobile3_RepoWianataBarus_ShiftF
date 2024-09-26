@@ -1,6 +1,3 @@
-Berikut adalah template README yang menjelaskan bagian-bagian penting dari aplikasi game berbasis Flutter yang telah kamu buat.
-
----
 
 # Game App - Flutter
 
