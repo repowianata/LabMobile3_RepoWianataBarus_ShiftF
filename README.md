@@ -1,6 +1,3 @@
-Berikut adalah template README yang menjelaskan bagian-bagian penting dari aplikasi game berbasis Flutter yang telah kamu buat.
-
----
 
 # Game App - Flutter
 
@@ -66,10 +63,9 @@ Halaman informasi tentang aplikasi.
 3. Jalankan perintah `flutter pub get` untuk mengunduh semua dependencies.
 4. Jalankan aplikasi dengan perintah `flutter run`.
 
-## Catatan Tambahan
-- Pastikan `SharedPreferences` sudah terinstall dengan menjalankan `flutter pub add shared_preferences`.
-- Gambar atau font custom harus ditambahkan ke dalam file `pubspec.yaml` agar dapat digunakan dalam aplikasi.
 
----
-
-README ini memberikan penjelasan yang cukup detail mengenai struktur dan fitur utama aplikasi, serta cara menjalankannya.
+## ScreenShot
+<img src = "login.png" width = 300>
+<img src = "home.png" width = 300>
+<img src = "sidebar.png" width = 300>
+<img src = "about.png" width = 300>
