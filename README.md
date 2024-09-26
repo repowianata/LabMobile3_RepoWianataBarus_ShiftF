@@ -57,6 +57,7 @@ Halaman informasi tentang aplikasi.
 - **Font & Theme**: Menggunakan font custom `PressStart2P` untuk memberikan kesan game retro. Tema aplikasi juga menggunakan warna gelap dengan gradien untuk latar belakang.
 - **Ikon & Desain**: Setiap fitur pada halaman `HomePage` ditampilkan dalam bentuk grid dengan ikon yang berbeda.
 
+
 ## Instalasi
 1. Pastikan Flutter dan Dart sudah terinstal pada sistem.
 2. Clone repository ini.
@@ -69,3 +70,5 @@ Halaman informasi tentang aplikasi.
 <img src = "home.png" width = 300>
 <img src = "sidebar.png" width = 300>
 <img src = "about.png" width = 300>
+
+
